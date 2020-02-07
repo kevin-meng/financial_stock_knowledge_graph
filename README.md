@@ -38,8 +38,7 @@ README.md
 ### 所用软件和版本
 - neo4j:3.4.7   # 图数据库
 - tushare:1.2.48      # 数据来源
-- py2neo:4.3.0
-# neo4j 的 python 库
+- py2neo:4.3.0       # neo4j 的 python 库
 - apoc: 3.4.03        # neo4j 工具包
 
 ## 一、数据获取
