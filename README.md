@@ -64,23 +64,19 @@ base on chinese stock market data
 1. 省份
 2. 城市
 3. 公司(上市公司 \ 基金管理公司 \ 基金托管公司)
-4.
-人（上市公司管理层）
+4. 人（上市公司管理层）
 5. 基金
 6. 行业
 
 **关系方面**
 1. 城市 - [IN_PROVINCE] - > 省份 
-2.
-公司(上市公司\基金管理公司\ 基金托管公司) - [IN_CITY] - > 城市
+2. 公司(上市公司\基金管理公司\ 基金托管公司) - [IN_CITY] - > 城市
 4. 公司(上市公司) - [HAS_MANGER] - >
 人（上市公司管理层）  [6类]
 5. 公司(上市公司) - [IN_INDUSTRY] - > 行业
-6. 基金  - [HAS_MANAGEMNET] -
-> 公司(基金管理公司)
+6. 基金  - [HAS_MANAGEMNET] - > 公司(基金管理公司)
 6. 基金  - [HAS_CUSTODIAN] - > 公司(基金托管公司)
-7. 基金  - [IN_PORTFOLIO] ->
-公司(上市公司)
+7. 基金  - [IN_PORTFOLIO] -> 公司(上市公司)
 
 ![shuju](./pictures/screenshot_2.png)
 
