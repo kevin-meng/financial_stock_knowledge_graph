@@ -4,7 +4,7 @@ financial_stock_knowledge_graph
 base on chinese stock market data
 
 本项目为基于 Python 中金融数据包 `TUSHARE` ，搭建一个金融证券知识图谱。
-项目覆盖知识图谱 从 **初次搭建** 后续 **更新更新维护**
+项目覆盖知识图谱 从 **初次搭建** 后续 **更新维护**
 完整闭环。
 
 项目以 jupyter notebook 的形式开源，方便感兴趣的朋友一步步复现。
