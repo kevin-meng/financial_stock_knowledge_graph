@@ -21,8 +21,7 @@ base on chinese stock market data
 ├── data
 ├── data_update
 ├── pictures
-├──
-README.md
+├── README.md
 └── scr
     ├── 1.get-data.ipynb
     ├── 2.graph-data-process.ipynb
