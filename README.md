@@ -26,13 +26,11 @@ README.md
 └── scr
     ├── 1.get-data.ipynb
     ├── 2.graph-data-process.ipynb
-├── 3.graph-data-to-database.ipynb
+    ├── 3.graph-data-to-database.ipynb
     ├── 4.application.ipynb.ipynb
-    ├──
-5.update-graph-get-data.ipynb
+    ├── 5.update-graph-get-data.ipynb
     ├── 6.update-graph-filter-data.ipynb
-    └──
-7.update-graph-modify-database.ipynb
+    └── 7.update-graph-modify-database.ipynb
 
 ```
 注：相关数据下载后，解压到对应目录即可。
