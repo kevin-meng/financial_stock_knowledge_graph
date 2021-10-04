@@ -170,4 +170,4 @@ properities（新增/修改）
 
 放个自己的公众号：`知行并重` 分享图挖掘以及关系图谱、以及金融风控相关等内容。欢迎交流
 
-![](https://imgkr.cn-bj.ufileos.com/418e785a-f06d-4d52-88e3-dd3c502a132a.png)
+![](https://gitee.com/kevin777/wechat_pictures/raw/master/2021-10-5/1633364923226-image.png)
