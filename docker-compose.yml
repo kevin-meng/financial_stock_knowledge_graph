@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  ################# Neo4j ######################### 
+  neo4j:
+    image: mengkevin/python-neo4j:3.4.7
+    restart: always
+    volumes:
+      - ./neo4j/data:/src/neo4j-enterprise-3.4.7/data
+      - ./neo4j/log:/src/neo4j-enterprise-3.4.7/log
+      - ./:/src/notebooks
+    ports:
+      - "7474:7474"
+      - "7473:7473"
+      - "7687:7687"
+      - "8895:8888"
