@@ -7,12 +7,23 @@ base on chinese stock market data
 项目覆盖知识图谱 从 **初次搭建** 后续 **更新维护**
 完整闭环。
 
-项目以 jupyter notebook 的形式开源，方便感兴趣的朋友一步步复现。
+项目以 jupyter notebook 的形式开源，并且提供运行环境和视频教程，方便感兴趣的朋友一步步复现。
 文章末尾有公众号二维码，可以与我交流探讨。
 如果觉得有帮助，也欢迎 Star. :) 
 整个项目结构如下：
 
 ![](./pictures/structures.png)
+
+## 视频教程
+
+![（1/7）图谱建设-数据准备和图模型构建](https://www.bilibili.com/video/BV1wf4y1c7E2?share_source=copy_web)
+![（2/7）图谱建设-数据抽取](https://www.bilibili.com/video/BV1tf4y1c7o2?share_source=copy_web)
+![（3/7）图谱建设-数据导入](https://www.bilibili.com/video/BV1Kf4y177K6?share_source=copy_web)
+![（4/7）图谱应用](https://www.bilibili.com/video/BV14v411g7wC?share_source=copy_web)
+![（5/7）图谱更新-数据抽取](https://www.bilibili.com/video/BV1pf4y1c7zN?p=2&share_source=copy_web)
+![（6/7）图谱更新-数据过滤](https://www.bilibili.com/video/BV1PL4y167XL?share_source=copy_web)
+![（7/7）图谱更新-更新与核验](https://www.bilibili.com/video/BV1WQ4y1B7DQ?share_source=copy_web)
+
 
 ## 项目结构
 
